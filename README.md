@@ -1,0 +1,2 @@
+# boilerplate
+Babel + Webpack + Flow
